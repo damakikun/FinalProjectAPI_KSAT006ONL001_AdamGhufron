@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POST - Login Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e91b5d3d-0f1e-4e46-a637-6c450e2be155</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET - Single Resource</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e11fe4b-1a33-42df-a7fd-0ebe2590077b</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3630f6da-11a8-485a-8822-d9bbed71e0dd</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/GET Data/Resource ID</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>3630f6da-11a8-485a-8822-d9bbed71e0dd</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>resourceId</value>
+      <variableId>6b553a86-7e0e-4c68-85ff-feae4e190759</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>6b553a86-7e0e-4c68-85ff-feae4e190759</id>
+      <masked>false</masked>
+      <name>resourceId</name>
+   </variable>
+</TestCaseEntity>

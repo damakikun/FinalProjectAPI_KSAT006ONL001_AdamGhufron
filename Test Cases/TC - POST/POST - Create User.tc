@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POST - Create User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>241409e0-13e3-4743-a75d-cfe6e5eabae9</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>7092284d-7438-475d-895e-be241d4f0a3b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/POST Data/Create User</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>7092284d-7438-475d-895e-be241d4f0a3b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>name</value>
+      <variableId>95411fbb-43c5-43aa-9a7e-59b9db70fab9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7092284d-7438-475d-895e-be241d4f0a3b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>job</value>
+      <variableId>0cf9d3e9-9619-461d-a9b1-e477cdeda8fa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>95411fbb-43c5-43aa-9a7e-59b9db70fab9</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0cf9d3e9-9619-461d-a9b1-e477cdeda8fa</id>
+      <masked>false</masked>
+      <name>job</name>
+   </variable>
+</TestCaseEntity>

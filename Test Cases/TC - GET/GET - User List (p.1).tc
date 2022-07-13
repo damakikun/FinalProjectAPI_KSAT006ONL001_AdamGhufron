@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET - User List (p.1)</name>
+   <tag>jira-integration</tag>
+   <comment></comment>
+   <testCaseGuid>4e985f9f-89b9-46f7-89a6-62b92b17fded</testCaseGuid>
+</TestCaseEntity>

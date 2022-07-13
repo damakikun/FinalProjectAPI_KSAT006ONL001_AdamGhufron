@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POST - Register Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4cb68e5-461e-4c5e-85ff-7a4d2b814b81</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6c3e975a-9816-4041-b6e5-7f12928cd27d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/POST Data/Register Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>6c3e975a-9816-4041-b6e5-7f12928cd27d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email</value>
+      <variableId>fce0c10f-436c-4a17-96fd-1fe7050a8333</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>6c3e975a-9816-4041-b6e5-7f12928cd27d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>49f9bb7d-b97d-4422-a74e-53704ed4f2b5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>6c3e975a-9816-4041-b6e5-7f12928cd27d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>id</value>
+      <variableId>62b188bc-6016-44c1-9256-acb6f0d08ddc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fce0c10f-436c-4a17-96fd-1fe7050a8333</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>49f9bb7d-b97d-4422-a74e-53704ed4f2b5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>62b188bc-6016-44c1-9256-acb6f0d08ddc</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET - Single Resource (Not Found)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a76a31e1-2b7a-45d8-83ff-11d367d997f0</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>bd9de72d-e109-47c5-b403-2543f7e2b805</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/GET Data/Resource ID (Not Found)</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>bd9de72d-e109-47c5-b403-2543f7e2b805</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>resourceId</value>
+      <variableId>312f4f6e-f226-4c3f-9716-9dc97884a417</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>312f4f6e-f226-4c3f-9716-9dc97884a417</id>
+      <masked>false</masked>
+      <name>resourceId</name>
+   </variable>
+</TestCaseEntity>

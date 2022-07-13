@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET- User Data (Not Found)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39630b55-03d8-41fb-889f-a01fe13f8e15</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>36a4f7d9-8614-4cdb-873e-cc6b79367eae</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/GET Data/User ID (Not Found)</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>36a4f7d9-8614-4cdb-873e-cc6b79367eae</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>userId</value>
+      <variableId>0651d4ff-0fd2-404e-a147-2f82bfc09ff6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData(null).getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>0651d4ff-0fd2-404e-a147-2f82bfc09ff6</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+</TestCaseEntity>

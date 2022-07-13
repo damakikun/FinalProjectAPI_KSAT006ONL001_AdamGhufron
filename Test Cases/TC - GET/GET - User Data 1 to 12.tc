@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET - User Data 1 to 12</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d38dd1c-f754-46be-9546-60d6dcd1894a</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c56a41cf-f8ca-4029-9f51-c4da17855d8c</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/GET Data/User ID</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>c56a41cf-f8ca-4029-9f51-c4da17855d8c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>userId</value>
+      <variableId>44c014da-fa75-4648-9c6f-379dba7404d9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData(null).getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>44c014da-fa75-4648-9c6f-379dba7404d9</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+</TestCaseEntity>

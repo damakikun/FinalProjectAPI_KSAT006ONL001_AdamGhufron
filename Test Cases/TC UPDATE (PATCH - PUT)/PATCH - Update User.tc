@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PATCH - Update User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3688a14-59f7-4d59-960a-7ada37b1b9e3</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>fb749226-6e87-4e6c-9ddc-28d389dd0527</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/PUT-PATCH Data/Data Resource for Update Purposes</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>fb749226-6e87-4e6c-9ddc-28d389dd0527</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>name</value>
+      <variableId>f0ad3be8-5a9f-4cfc-9bb4-aa9e98094297</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>fb749226-6e87-4e6c-9ddc-28d389dd0527</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>job</value>
+      <variableId>52fddbe8-5a90-4a00-b74a-a1ed86cc93d8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>fb749226-6e87-4e6c-9ddc-28d389dd0527</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>userId</value>
+      <variableId>31e75033-7b62-414b-9de3-372c111b0fcc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f0ad3be8-5a9f-4cfc-9bb4-aa9e98094297</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>52fddbe8-5a90-4a00-b74a-a1ed86cc93d8</id>
+      <masked>false</masked>
+      <name>job</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>31e75033-7b62-414b-9de3-372c111b0fcc</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+</TestCaseEntity>

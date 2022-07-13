@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POST - Register with Empty Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>538769b2-07d1-4937-900a-387b9b77c40c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6c3e975a-9816-4041-b6e5-7f12928cd27d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/POST Data/Register Data with Empty Email</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>6c3e975a-9816-4041-b6e5-7f12928cd27d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email</value>
+      <variableId>29086cd7-f55a-4f99-ae6f-f4b294eeb584</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>6c3e975a-9816-4041-b6e5-7f12928cd27d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>4e91010f-a5ee-4fdb-9ec2-ef022cd9bf51</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>6c3e975a-9816-4041-b6e5-7f12928cd27d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>id</value>
+      <variableId>00e4473d-f71f-4ade-bb3a-1fd280d88c61</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>29086cd7-f55a-4f99-ae6f-f4b294eeb584</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4e91010f-a5ee-4fdb-9ec2-ef022cd9bf51</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>00e4473d-f71f-4ade-bb3a-1fd280d88c61</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>
